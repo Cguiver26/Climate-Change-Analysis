@@ -1,8 +1,11 @@
 # __Climate-Change-Analysis__
 
-An exploration of a range of climate related datasets.
+:earth_africa: An exploration of a range of climate related datasets. :earth_africa:
 
-Data can be found on:
+:globe_with_meridians: Data can be found on:
+<br>
  [Kaggle](https://www.kaggle.com/datasets/unitednations/international-greenhouse-gas-emissions)
+ <br>
 [kaggle](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
+<br>
 [UN](https://data.un.org/Data.aspx?q=GDP+per+capita&d=SNAAMA&f=grID%3a101%3bcurrID%3aUSD%3bpcFlag%3a1)
