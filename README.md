@@ -11,3 +11,5 @@
 [GDP data- UN](https://data.un.org/Data.aspx?q=GDP+per+capita&d=SNAAMA&f=grID%3a101%3bcurrID%3aUSD%3bpcFlag%3a1)
 <br>
 [Population data](https://data.worldbank.org/indicator/SP.POP.TOTL?end=2013&name_desc=false&start=1990)
+<br>
+![Tableau Dashboard](/Users/chloeguiver/code/Cguiver26/Climate-Change-Analysis/Screenshot.png)
