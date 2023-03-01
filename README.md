@@ -12,4 +12,5 @@
 <br>
 [Population data](https://data.worldbank.org/indicator/SP.POP.TOTL?end=2013&name_desc=false&start=1990)
 <br>
-<img src="/Users/chloeguiver/code/Cguiver26/Climate-Change-Analysis/Screenshot.png" title="Tableau Dashboard">
+#### Dashboard produced from this data:
+[Tableau Dashboard](https://public.tableau.com/app/profile/chloe.guiver)
